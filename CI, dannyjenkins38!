@@ -1,0 +1,18 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 612409d..9243a0d 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -2,11 +2,11 @@[m
+ [m
+ This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).[m
+ [m
+[31m-## Available Scripts and tests[m
+[32m+[m[32m## Available Scripts and tests and more test[m
+ [m
+ In the project directory, you can run:[m
+ [m
+[31m-### `npm start`[m
+[32m+[m[32m### `npm start` This will run container image[m
+ [m
+ Runs the app in the development mode.\[m
+ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.[m
